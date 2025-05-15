@@ -76,15 +76,28 @@ Background image and intro/game-over/win screens.
 
 # Game Flow
 1. Intro screen shows instructions.
-
 2. Level 1 begins with simple enemies.
-
 3. After a score/time threshold, player advances levels.
-
 4. At level 3, the boss appears with unique behavior.
-
 5. Game ends when:
 
 a. Player wins (reaches score limit or defeats boss),
 
 b. Player loses all lives (game over).
+
+![image](https://github.com/user-attachments/assets/d908ab34-379e-4aff-8461-5913e471cb56)
+
+
+![image](https://github.com/user-attachments/assets/b7d1632e-250d-41f1-96cc-8f36df3478bd)
+
+# Level 3
+
+![image](https://github.com/user-attachments/assets/5a5ec27b-50b9-43c0-bd26-a541b18d48c9)
+
+# Winning
+
+![image](https://github.com/user-attachments/assets/134bcd80-8918-4c33-b143-98835d0cbea9)
+
+
+
+
