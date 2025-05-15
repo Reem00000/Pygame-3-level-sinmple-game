@@ -75,16 +75,16 @@ Sound effects (recently added): For collisions, shooting, and winning/losing.
 Background image and intro/game-over/win screens.
 
 # Game Flow
-Intro screen shows instructions.
+1. Intro screen shows instructions.
 
-Level 1 begins with simple enemies.
+2. Level 1 begins with simple enemies.
 
-After a score/time threshold, player advances levels.
+3. After a score/time threshold, player advances levels.
 
-At level 3, the boss appears with unique behavior.
+4. At level 3, the boss appears with unique behavior.
 
-Game ends when:
+5. Game ends when:
 
-Player wins (reaches score limit or defeats boss),
+a. Player wins (reaches score limit or defeats boss),
 
-Player loses all lives (game over).
+b. Player loses all lives (game over).
