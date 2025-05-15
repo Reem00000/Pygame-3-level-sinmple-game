@@ -1,7 +1,7 @@
 # Pygame-3-level-sinmple-game
 
 # Game Overview
-You're developing a 2D side-scrolling shooter game using Pygame, where a player controls a character that:
+2D side-scrolling shooter game using Pygame, where a player controls a character that:
 
 Moves and shoots projectiles,
 
