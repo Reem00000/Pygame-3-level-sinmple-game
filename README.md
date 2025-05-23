@@ -99,5 +99,13 @@ b. Player loses all lives (game over).
 ![image](https://github.com/user-attachments/assets/134bcd80-8918-4c33-b143-98835d0cbea9)
 
 
+# Refernces
+1. ChatGPT (LLM Tool) Reference:
 
+OpenAI. (2023). ChatGPT [Large language model]. Used for assistance in some functions and debugging. https://chat.openai.com/
 
+2. Tech With Tim Pygame Tutorial Reference:
+
+Tech With Tim. (n.d.). Pygame tutorials [Video & Code Repository]. GitHub. https://github.com/techwithtim/pygame-tutorials/tree/master/Game. Used for images for animation
+
+Tech With Tim. (n.d.). Pygame tutorial – Movement. Tech With Tim. https://www.techwithtim.net/tutorials/game-development-with-python/pygame-tutorial/pygame-tutorial-movement/. Used for illustrating the implimentation of animation and initial idea of the game.
