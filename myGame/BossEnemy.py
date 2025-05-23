@@ -16,24 +16,6 @@ BLACK = (0, 0, 0)
 RED = (255, 0, 0)
 GREEN = (0, 255, 0)
 
-import pygame
-import random
-import os
-
-# Load images
-tank_image = pygame.image.load("assets/tank_enemy.png")
-tank_image = pygame.transform.scale(tank_image, (60, 40))
-WIDTH, HEIGHT = 800, 600
-FPS = 60
-WHITE = (255, 255, 255)
-BLACK = (0, 0, 0)
-RED = (255, 0, 0)
-GREEN = (0, 255, 0)
-WHITE = (255, 255, 255)
-BLACK = (0, 0, 0)
-RED = (255, 0, 0)
-GREEN = (0, 255, 0)
-
 class BossEnemy(pygame.sprite.Sprite):
     def __init__(self):
         super().__init__()
